@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FilmsSearch</string>
+    <string name="disclaimer">Картинки взяты с https://www.movieposters.com/</string>
+    <string name="page_title">Найди</string>
+    <string name="menu_settings_title_text">Настройки</string>
+    <string name="menu_selections_title">Подборки</string>
+    <string name="menu_favorites_title">Избранное</string>
+    <string name="menu_watch_later_title">Посмотреть позже</string>
+    <string name="on_back_pressed">Нажмите дважды для выхода</string>
+    <string name="description">Image View</string>
+    <string name="radio_button_popular">Популярные</string>
+    <string name="radio_button_top_rated">Топ 250</string>
+    <string name="radio_button_playing">В прокате</string>
+    <string name="radio_group_header">Подборка на главном экране:</string>
+    <string name="radio_button_genres">Комедия</string>
+    <string name="permission_storage">Нет разрешения. Пожалуйста, предоставьте разрешение</string>
+    <string name="downloaded_to_gallery">Сохранено в галерею</string>
+    <string name="open">В галерею</string>
+    <string name="go_home">Домой</string>
+    <string name="battery_is_low">Низкий заряд</string>
+    <string name="power_cord">Зарядка подключена</string>
+    <string name="watch_later">Не забудьте посмотреть!</string>
+    <string name="flavor_availability">Доступно в pro версии</string>
+    <string name="text_image_promo">Посмотри фильм:</string>
+    <string name="text_btn_promo">Смотреть</string>
+</resources>
